@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+    <h1>Portifólio Maria Eduarda</h1> <!--isto é para inserir um titulo-->
+    <hr> <!--Isto é para inseririr uma linha horizontal-->
+    <nav>
+    <a href="#">Linkedin</a> <!--link do Linkedin-->
+    <a href="#">Trello</a> <!--link do Trello-->
+    <a href="#">GitHub</a> <!--link do GitHub-->
+    </nav>
+    <hr>
+    </header>
+    <main>
+        <img src="foto duda.jpg" alt="Maria Eduarda" class="perfil">
+    <p class="apresentacao">
+        Meu nome é Maria Eduarda, estou cursando ADS na faculdade FMU, periodo matutino, e estou em busca um emprego na área 
+    </p>
+    </main>
+    <hr>
+    <footer>
+    <p> São Paulo-SP </p>
+    <P> Whats: (11)7376-5757 </P>
+    <p> Email: mdudadss@gmail.com </p>
+    </footer>
+</body>
+</html>
